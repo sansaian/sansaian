@@ -27,7 +27,7 @@ The most important thing for me is the satisfied customers of our products.
 
 ---
 
-![image](https://github.com/sansaian/sansaian/blob/main/remote-work.png)
+![image](https://github.com/sansaian/sansaian/blob/master/remote-work.png)
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -49,7 +49,7 @@ The most important thing for me is the satisfied customers of our products.
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sansaian&style=flat-square&color=blue" alt=""></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sansaian&layout=compact&count_private=true&hide=CSS,SCSS,Dart,HTML&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats) 
-![image](https://github.com/sansaian/sansaian/blob/main/purr.png)
+![image](https://github.com/sansaian/sansaian/blob/master/purr.png)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=sansaian&show_icons=true&theme=flag-india)
 
