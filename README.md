@@ -1,9 +1,4 @@
 
-
-<h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
-<p align="center"><img src="https://github.com/sansaian/sansaian/blob/master/main.png" /></p>
-
 ### About Me :
 
 I'm a software engineer with 6 years of experience . 
