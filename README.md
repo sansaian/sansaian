@@ -38,7 +38,7 @@ The most important thing for me is the satisfied customers of our products.
 
 
 ### &nbsp; My Stats  :
-![Leetcode](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Ranking&query=ranking&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsansaian&logo=leetcode&logoColor=yellow)
+![Leetcode](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=rating&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fsansaian&logo=leetcode&logoColor=yellow)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=sansaian&style=flat-square&color=blue" alt=""></p>
 
